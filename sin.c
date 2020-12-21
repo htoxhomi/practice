@@ -30,5 +30,5 @@ else if(x == y+z){
 else
     printf("There is no right angle");
 
-return 0;
+return -1;
 }
